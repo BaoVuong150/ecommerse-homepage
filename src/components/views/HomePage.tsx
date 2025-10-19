@@ -1,4 +1,3 @@
-import React from "react";
 import HomepageBanner from "../../assets/imageMain.png";
 import Products from "../products/Products";
 import SubBanner from "./SubBanner";

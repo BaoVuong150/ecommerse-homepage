@@ -1,4 +1,3 @@
-import React from "react";
 import ProductImg from "../../assets/productList1.png";
 import StarRating from "../contexts/StarRating";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import RodCad from "../../assets/RodcatIcon.svg";
 import Msi from "../../assets/MsiIcon.svg";
 import Razer from "../../assets/RazerIcon.svg";
